@@ -1,0 +1,5 @@
+step 1: import database .sql 
+
+step 2: install required composer dependencies (mpdf)
+
+step 3: set folder permissions to allow read & write for image uploads
